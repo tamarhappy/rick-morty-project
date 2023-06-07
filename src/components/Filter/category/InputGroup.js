@@ -16,3 +16,5 @@ const InputGroup = ({ name, changeID, total }) => {
       </select>
     </div>
     };
+
+export default InputGroup;
