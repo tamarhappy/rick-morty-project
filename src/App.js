@@ -8,7 +8,7 @@ import Filter from "./components/Filter/Filter";
 import Navbar from "./components/Navbar/Navbar";
 import Episodes from "./Pages/Episodes";
 import Location from "./Pages/Location";
-import InputGroup from "../components/Filter/category/InputGroup";
+// import InputGroup from "../components/Filter/category/InputGroup";
 import { BrowserRouter as Router, Switch, Route, Routes } from "react-router-dom";
 
 const Home = () => {
